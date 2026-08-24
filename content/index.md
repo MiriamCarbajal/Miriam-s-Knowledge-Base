@@ -1,5 +1,5 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: I enjoy crafting
 ---
 ## The index page
 
