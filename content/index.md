@@ -1,6 +1,6 @@
-##Main Categories
--[category-01/index|Inspiration and Ideas]
--[category-02/index|Materials and Supplies]
--[category-03/index|Digital Scrapbooking]
--[category-04/index|Organization and Storage]
--[category-05/index|Resources and Templates]
+## Main Categories
+-[[inspiration-and-ideas/index| Inspiration and Ideas]]
+-[[materials-and-supplies/index|Materials and Supplies]]
+-[[digital-scrapbooking/index|Digital Scrapbooking]]
+-[[category-04/index|Organization and Storage]]
+-[[resource-and-templates/index|Resources and Templates]]
