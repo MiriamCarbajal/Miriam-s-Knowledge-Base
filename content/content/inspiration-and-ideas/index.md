@@ -1,0 +1,3 @@
+---
+title: inspiration and ideas
+---
