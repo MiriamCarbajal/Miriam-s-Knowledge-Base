@@ -1,6 +1,10 @@
 ---
 title: inspiration and ideas
 ---
-## Related Categories
+## Articles in this Category
 
-For project ideas, check out the [[resource-and-templates/index|index]] to get further ideas.
+- [[inspiration-and-ideas/moodboards| Moodboards]]
+- [[inspiration-and-ideas/color-palettes|Color Palettes]]
+- [[inspiration-and-ideas/digitial-assests|Digital Assets]] 
+- [[inspiration-and-ideas/layout-themes|Layout Themes]]
+- [[inspiration-and-ideas/sketching|Sketching]]
