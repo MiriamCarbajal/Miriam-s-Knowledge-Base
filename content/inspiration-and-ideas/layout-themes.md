@@ -1,4 +1,4 @@
 ---
 title: Layout Themes
 ---
-![[blue-platform.pdf]]
+![Blue Platform](../../assets/blue-platform.pdf)

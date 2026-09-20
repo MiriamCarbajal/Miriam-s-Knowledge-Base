@@ -1,4 +1,4 @@
 ---
 title: Digital Assests
 ---
-![[polaroid.png|378]]
+![Polaroid](../../assets/polaroid.png)
