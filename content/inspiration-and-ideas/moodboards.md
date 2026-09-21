@@ -12,4 +12,4 @@ title: Moodboards
 * Fonts- Font help set a tone to your moodboard and they can sometimes be overlooked but the proper font changes the feeling you want portrayed. 
 * Photography- These can be your personal images or images you find online that you find inspiring.
 
-![Moodboard Example](../../assets/moodboard-green-pink.jpeg)
+![[moodboard-green-pink.jpeg]]

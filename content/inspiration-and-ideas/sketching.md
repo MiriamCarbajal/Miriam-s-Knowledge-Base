@@ -14,5 +14,5 @@
 * Helps you decide what works for you in terms of stickers, color, frames, fonts.
 * Good way to save ideas for future pages you will make.
 
-![Sketch Page Example](../../assets/sketch-01.jpg)
+![[assets/sketch-01.jpg]]
 
