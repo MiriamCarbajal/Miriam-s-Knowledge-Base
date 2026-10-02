@@ -1,5 +1,5 @@
 ---
-title: Resources and Templates
+title: Journal Entries
 ---
 ## Related Categories
 

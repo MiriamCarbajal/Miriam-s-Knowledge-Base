@@ -16,4 +16,4 @@ title: Layout Themes
 
 
 
-![Blue Platform](../assets/blue-platform.pdf)
+![[Blue-Platform.pdf]]
