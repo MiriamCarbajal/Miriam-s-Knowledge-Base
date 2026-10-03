@@ -1,5 +1,6 @@
 ---
 title: inspiration and ideas
+date: 10-02-2026
 ---
 ## Articles in this Category
 

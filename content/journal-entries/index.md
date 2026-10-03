@@ -1,5 +1,6 @@
 ---
 title: Journal Entries
+date: 10-02-2026
 ---
 ## Related Categories
 
