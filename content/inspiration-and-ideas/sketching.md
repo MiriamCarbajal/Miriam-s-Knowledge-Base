@@ -1,5 +1,6 @@
 ---
 "title:": Sketching
+date: 10-02-2026
 ---
 # Sketching 
 
@@ -14,5 +15,5 @@
 * Helps you decide what works for you in terms of stickers, color, frames, fonts.
 * Good way to save ideas for future pages you will make.
 
-![[assets/sketch-01.jpg]]
+![Sketching](../assets/sketching.jpg)
 

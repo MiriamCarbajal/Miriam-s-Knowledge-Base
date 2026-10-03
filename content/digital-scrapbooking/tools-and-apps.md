@@ -12,5 +12,5 @@ date: 10-02-2026
 
 1. Bazaart- This app is the main one that I use for collages. I especially like it because I use it to remove the background from images so that I can create my own [[digital-stickers]].
 2. Canva- This app is my favorite for creating layouts, posters, and presentations. 
-
+3. Pinterest- I find a lot of great images here.
 ![Bazaart](../assets/bazaart.jpeg)

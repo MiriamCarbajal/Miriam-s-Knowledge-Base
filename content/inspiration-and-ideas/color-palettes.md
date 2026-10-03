@@ -1,5 +1,6 @@
 ---
 "title:": Color Palettes
+date: 10-02-2026
 ---
 # Color Palette Ideas
 

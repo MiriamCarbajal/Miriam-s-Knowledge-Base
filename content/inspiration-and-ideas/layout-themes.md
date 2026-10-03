@@ -17,4 +17,4 @@ date: 10-02-2026
 
 
 
-![[Blue-Platform.pdf]]
+![Layout](../assets/layout.jpg)
