@@ -13,4 +13,6 @@ title: Digital Assests
 * Word Art and Typography- The accessibility to all of the fonts and being able to find banners and cool headers.
 
 ## Before building a "scrapbook" page start by picking a [[color-palettes]]. 
-![[polaroid.png]]
+
+
+![Digital Assets](../assets/digital-assets.png)

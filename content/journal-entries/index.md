@@ -2,6 +2,8 @@
 title: Journal Entries
 date: 10-02-2026
 ---
-## Related Categories
+## Journal Entries
 
-After browsing through templates, bring your [[inspiration-and-ideas/index|index]] to life.
+- [[journal-entries/daily-prompts| Daily Prompts]]
+- [[journal-entries/memories| Memories]]
+- [[journal-entries/milestones-and-goals| Milestone and Goals]]
