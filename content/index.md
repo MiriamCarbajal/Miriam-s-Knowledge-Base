@@ -3,4 +3,4 @@
 - [[materials-and-supplies/index|Materials and Supplies]]
 - [[digital-scrapbooking/index|Digital Scrapbooking]]
 - [[organization-and-storage/index|Organization and Storage]]
-- [[journal-entries/index|Resources and Templates]]
+- [[journal-entries/index| Journal Entries]]
