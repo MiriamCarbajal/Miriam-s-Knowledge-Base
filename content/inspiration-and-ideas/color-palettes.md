@@ -15,5 +15,4 @@
 - Tetradic- This style uses four colors that pair into two.
 - Triadic- This style uses three colors on the color wheel that spaced out evenly like a triangle. 
 
-![[color-styles.jpeg]]
-
+![[color-styles.jpeg|595]]

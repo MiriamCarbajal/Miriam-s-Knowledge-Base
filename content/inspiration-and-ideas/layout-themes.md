@@ -1,5 +1,6 @@
 ---
 title: Layout Themes
+date: 10-02-2026
 ---
 # Scrapbook Layout Themes
 
